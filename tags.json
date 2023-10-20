@@ -1,16 +1,6 @@
 {
   "good": [
-    "#HamasISIS",
-    "#HamasTerrorist",
-    "#StandWithIsrael",
-    "#FreePalestineFromHamas",
-    "#IsraelUnderAttack",
-    "Israel Chai",
-    "(massacre.+Hamas)|(Hamas.+massacre)",
-    "ארגון הטרור חמאס",
-    "במחבלים",
-    "Israeli victims",
-    "music festival.+terror",
+
   ],
   "bad": [
     "#FreePalestine",
