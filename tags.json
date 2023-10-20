@@ -5,14 +5,12 @@
     "#StandWithIsrael",
     "#FreePalestineFromHamas",
     "#IsraelUnderAttack",
-    "ISIS",
     "Israel Chai",
     "(massacre.+Hamas)|(Hamas.+massacre)",
     "ארגון הטרור חמאס",
     "במחבלים",
     "Israeli victims",
     "music festival.+terror",
-    "סאמח"
   ],
   "bad": [
     "#FreePalestine",
